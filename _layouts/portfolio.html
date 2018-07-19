@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="padded-row">
+    	<p>This page is not a comprehensive listing of my projects. For more samples, please <a href="http://www.google.com/recaptcha/mailhide/d?k=01ZB81xNNx2hQqJBevdGuUxQ==&amp;c=Fd7A5sjv-cs2Rq3QGLbcZcYHZ9xkxLxcGf8J0Fr_MbE=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\07501ZB81xNNx2hQqJBevdGuUxQ\75\75\46c\75Fd7A5sjv-cs2Rq3QGLbcZcYHZ9xkxLxcGf8J0Fr_MbE\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">contact me</a>.</p>
+    </div>
+
+	<div id="portfolioNav" class="column-12 portfolio-header">
+		<div class="column-4-persist">
+			<h2><a href="#web">Web</a></h2>
+		</div>
+		<div class="column-4-persist">
+			<h2><a href="#directing">Directing</a></h2>
+		</div>
+		<div class="column-4-persist">
+			<h2><a href="#acting">Acting</a></h2>
+		</div>
+	</div>
+
+    <div class="page-content">
+        {{ content }}
+    </div>
+
+    {% include footer.html %}
+	<script src="{{ "../js/main.js" | prepend: site.baseurl }}"></script>
+  </body>
+
+</html>

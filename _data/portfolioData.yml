@@ -1,0 +1,220 @@
+- name: (RE)FOCUS Fest
+  type: web
+  url: http://www.refocusfest.org
+  photo: /images/refocus.png
+  description: My theater company, [redacted] was invited to co-produce and take part in a new festival exploring questions of privilege alongside three other Philadelphia-based artists. I designed the website and developed it.
+  date: February 2016
+  techUsed:
+    - tech: HTML
+    - tech: CSS
+    - tech: JavaScript/jQuery
+    - tech: Responsive Design
+    - tech: Jekyll
+    - tech: Google Analytics
+
+- name: Chopin Without Piano
+  type: web 
+  url: http://www.chopinwithoutpiano.com
+  photo: /images/chopin.png
+  description: I was hired to create a website for the first American tour of Chopin Without Piano, a play by Polish theater company CENTRALA. This production was supported by major arts grants. My website was intended both to sell tickets and to become an English-language hub for the production. Special attention was given to Lost Pianos, a viral marketing campaign for the production. I was the sole developer on the project, but I collaborated with marketing and content specialists throughout the process to create the ultimate experience.
+  date: June - October 2015
+  techUsed: 
+    - tech: HTML
+    - tech: CSS
+    - tech: JavaScript/jQuery
+    - tech: Responsive Design
+    - tech: Jekyll
+    - tech: Google Analytics
+    - tech: Adobe Photoshop
+
+- name: W. H. Cooke & Co., Inc.
+  type: web 
+  url: http://www.whcooke.com
+  photo: /images/whcooke.png
+  description: I was hired to complete a full redesign of the existing W. H. Cooke site, which at the time was little more than a few descriptive paragrahps and a contact page. I worked remotely to complete this responsive, standards-based redesign and to add much more content to the site. The appearance of the redesign and the content were handled by the company with my feedback. Additionally, I integrated an eCommerce solution using Authorize.Net as the payment gateway to accept client payments for goods. I created and edited documents and graphics when necessary, including launching a quarterly newsletter sent to thousands of subscribers and customers. I performed a holistic SEO analysis, keeping optimization at the forefront of my design. Over a 7 month period, my redesign increased the number of Sessions by 97% and the reduced the Bounce Rate by 19% (Google Analytics).
+  date: January 2014 - October 2015
+  techUsed: 
+    - tech: HTML
+    - tech: CSS
+    - tech: JavaScript/jQuery
+    - tech: Responsive Design
+    - tech: PHP
+    - tech: WordPress
+    - tech: Google Analytics
+    - tech: Adobe Photoshop
+    - tech: Adobe InDesign
+
+- name: "[redacted] Theater Company"
+  type: web 
+  url: http://www.redactedtheater.org
+  photo: /images/redacted.png
+  description: I founded [redacted] Theater Company in early 2014, and when we were finally ready to launch publicly, I created the website. The censoring effect found throughout is raw CSS/JavaScript, not a plugin. I'm particularly proud of that effect, as I designed and developed the site by myself and am personally repsonsible for most of the content.
+  date: July 2014
+  techUsed: 
+    - tech: HTML
+    - tech: CSS
+    - tech: JavaScript/jQuery
+    - tech: Responsive Design
+    - tech: WordPress
+    - tech: PHP
+
+- name: Patrick Ross
+  type: web 
+  url: http://www.patrickross.net
+  photo: /images/patrick.png
+  description: My friend and collaborator, Patrick Ross, asked me to make him a website to showcase his work. I used parallax design principles, full-screen photos, and HTML5 media elements in the site, which I both designed and developed. All content was provided by Patrick.
+  date: July 2014
+  techUsed: 
+    - tech: HTML
+    - tech: CSS
+    - tech: JavaScript/jQuery
+    - tech: Responsive Design
+    - tech: PHP
+
+- name: Mitchell Kyd
+  type: web 
+  url: http://www.mitchellkyd.com
+  photo: /images/kyd.png
+  description: After creating the first version of my personal website, I sought freelance clients. Fellow freelancer Mitchell Kyd, who is based in my hometown, trusted me to make her a website to serve as a professional hub. I used the front-end framework ZURB Foundation and created a basic CMS written in PHP to power the blog and other dynamically-generated content sections. I was also responsible for the design of the website.
+  date: December 2013
+  techUsed: 
+    - tech: HTML
+    - tech: CSS
+    - tech: JavaScript/jQuery
+    - tech: Responsive Design
+    - tech: PHP
+    - tech: ZURB Foundation
+
+- name: My Name is Asher Lev
+  type: directing
+  theater: South Camden Theatre Company, Camden, NJ
+  playwright: Aaron Posner
+  photo: /images/asher.jpg
+  date: May 5 - 21, 2017
+  reviews:
+    - link: http://www.theintell.com/life-style/local-entertainment/theater/powerful-asher-lev-takes-the-stage-in-camden/article_e2e85c3d-f9ab-53b4-a22c-89d8dfb9d242.html?hp=mid-moretopstories
+      quote: "The South Camden Theatre Company production proves that an ambitious company — and one in a unlikely location — can still inspire, lead us to question, remind us of our innate conflicts, and most of all, help us to remember that family, no matter how harmonious or conflicted, is a taproot for us all."
+      citation: Sally Friedman, The Intelligencer
+    - link: http://dcmetrotheaterarts.com/2017/05/07/review-name-asher-lev-south-camden-theatre-company/
+      quote: "South Camden Theatre Company’s stark production, directed in a straightforward fashion by Josh McLucas, tells the story in a quietly powerful fashion...it sparkles with life..."
+      citation: Tim Dunleavy, DC Metro Theater Arts
+
+- name: The Art of Wasting Time
+  type: directing
+  theater: "[redacted] Theater Company, Philadelphia"
+  playwright: "[redacted] Theater Company"
+  photo: /images/refocus_show.png
+  date: April 8 - 10, 2016
+  flags: World Premiere
+
+- name: Charlie Victor Romeo
+  type: directing
+  theater: South Camden Theatre Company, Camden, NJ
+  playwright: Daniels, Berger, and Gregory
+  photo: /images/cvr.png
+  date: September 16 - November 1, 2016
+  flags: Assistant, Regional Premiere
+  reviews:
+    - link: http://phindie.com/9635-charlie-victor-romeo-south-camden-turbulence-ahead/
+      quote: "You are advised, before the show takes off, to secure your seat belt. DO it."
+      citation: Lisa Panzer, Phindie
+
+- name: This Damned Body is Carved Out of Meat
+  type: directing
+  theater: "[redacted] Theater Company, Philadelphia"
+  playwright: Swift Shuker
+  photo: /images/body1.png
+  date: August 28 - 30, 2015
+  flags: Co-Director, World Premiere
+
+- name: Mercury Fur
+  type: directing
+  theater: Swarthmore College
+  playwright: Philip Ridley
+  photo: /images/furSwat.jpg
+  date: April 24 - 26, 2015
+
+- name: "Earnestness #2"
+  type: directing
+  theater: "[redacted] Theater Company, Philadelphia"
+  playwright: Joshua McLucas
+  photo: /images/earnestness.png
+  date: July 28 - 30, 2014
+  flags: World Premiere
+
+- name: Titus Andronicus
+  type: directing
+  theater: Swarthmore College
+  playwright: William Shakespeare
+  photo: /images/titus.png
+  date: March 21 - 23, 2014
+
+- name: The Groom’s a Fag; The Bride’s a Cunt; The Best Man’s a Whore; and the Maiden of Honor (Just) Hung Herself in the Closet
+  type: acting
+  theater: On The Rocks
+  playwright: Haygen-Brice Walker
+  director: Elaina Di Monaco
+  role: Fred
+  photo: /images/bride.jpg
+  date: September 8 - 22, 2017
+  reviews:
+    - link: http://dcmetrotheaterarts.com/2017/09/16/2017-philadelphia-fringe-festival-review-the-grooms-a-fag-the-brides-a-cunt-the-best-mans-a-whore-and-the-maiden-of-honor-just-hung-herself-in-the-closet/
+      quote: "McLucas as the best man is a study in laughable libidinous machismo..."
+      citation: Deb Miller, DC Metro Theater Arts
+
+- name: Richard III
+  type: acting
+  theater: The Mechanical Theater
+  playwright: William Shakespeare
+  director: Josh Hitchens
+  role: George/King Edward IV/Bishop of Ely
+  photo: /images/richard3.png
+  date: July 15 -23, 2016
+  reviews: 
+    - link: http://phindie.com/11956-the-mechanical-theater-brings-richard-iii-to-laurel-hill-cemetery/
+      quote: "The five supporting actors...are thoroughly skilled in their facility with the Elizabethan language, and compelling in their understanding of the characters’ emotions and motivations"
+      citation: Deb Miller, Phindie
+
+- name: The House of Blue Leaves
+  type: acting
+  theater: South Camden Theatre Company, Camden, NJ
+  playwright: John Guare
+  director: Susan Jami Paschkes
+  role: Ronnie Shaughnessy
+  photo: /images/blueLeaves.jpg
+  date: January 15 - 31, 2016
+  reviews:
+    - link: http://www.newjerseystage.com/articles/getarticle.php?ID=6686
+      quote: "McLucas gives a strong performance...[he] is clear and believable in the midst of the chaos."
+      citation: Ruth K Brown, New Jersey Stage
+
+- name: Mercury Fur
+  type: acting
+  theater: BrainSpunk Theater, Philadelphia
+  playwright: Philip Ridley
+  director: Josh Hitchens
+  role: Elliot
+  photo: /images/furBrainspunk.png
+  date: July 24 - August 8, 2016
+  reviews:
+    - link: http://phindie.com/8525-mercury-fur-brainspunk-the-hills-are-alive-with-the-sound-of-post-apocalyptic-horror/
+      quote: "McLucas stands out in a role premiered by British actor Ben Whishaw, displaying some of that now-famous actor’s charm and depth."
+      citation: Christopher Munden, Phindie
+
+- name: Dublin By Lamplight
+  type: acting
+  theater: Swarthmore College
+  playwright: Michael West
+  director: Alex Torra
+  role: Willy
+  photo: /images/dublin.png
+  date: February 27 - March 1, 2015
+
+- name: Juniper Street
+  type: acting
+  theater: "[redacted] Theater Company, Philadelphia"
+  playwright: Swift Shuker
+  director: Swift Shuker
+  role: Harry
+  photo: /images/juniper.png
+  date: August 22 - 31, 2014
