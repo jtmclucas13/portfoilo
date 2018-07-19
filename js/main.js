@@ -21,7 +21,7 @@ $(document).ready(function() {
     else{
       calcScroll = $anchor.top - anchorHeight - $('#portfolioNav').outerHeight();
     }
-    $('body').stop().animate({
+    $('html, body').animate({
         scrollTop: calcScroll 
     }, 1500);
   });
