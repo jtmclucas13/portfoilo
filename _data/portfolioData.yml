@@ -149,6 +149,22 @@
   photo: /images/titus.png
   date: March 21 - 23, 2014
 
+- name: 'Wolfcrush: A Queer Werewolf Play'
+  type: acting
+  theater: On The Rocks
+  playwright: Haygen-Brice Walker
+  director: Elaina Di Monaco
+  role: Huck
+  photo: /images/wolfcrush.jpg
+  date: September 13 - 22, 2018
+  reviews:
+    - link: https://bonalysite.wordpress.com/2018/09/22/on-the-rocks-wolfcrush-a-queer-werewolf-play/
+      quote: "McLucas navigated characters with internalized systemic sexism, racism, and homophobia with humanity...portraying [a] specific and heart wrenching character arc"
+      citation: Bonaly Reviews
+    - link: https://www.broadstreetreview.com/theater/philly-fringe-2018-on-the-rocks-haygen-brice-walker-wolfcrush-a-queer-werew
+      quote: "McLucas...communicate[s] the duality of [his] character with practiced ease"
+      citation: Cameron Kelsall, Broad Street Review
+
 - name: The Groom’s a Fag; The Bride’s a Cunt; The Best Man’s a Whore; and the Maiden of Honor (Just) Hung Herself in the Closet
   type: acting
   theater: On The Rocks
